@@ -51,7 +51,6 @@ This one includes any digit character 0-9 (with "\d"), a character in the range 
 \
 [a-z\.]\
 This one includes all letters a-z, and a period \
-\
 
 <!-- ### Flags -->
 
